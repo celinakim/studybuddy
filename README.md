@@ -1,6 +1,6 @@
 # StudyBuddy
 
-Multiple concerns with studying and organization. One app designed to meet those needs.
+Find your study buddies for the courses you need help on! 
 
 ## Screenshots
 
